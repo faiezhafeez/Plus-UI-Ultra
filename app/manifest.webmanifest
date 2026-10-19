@@ -1,7 +1,7 @@
 {
-  "name": "Plus UI - Glassmorphism Edition",
-  "short_name": "Plus UI",
-  "description": "Ultra-fast, modern Glassmorphism Progressive Web App theme for Blogger",
+  "name": "Plus UI Ultra - Glassmorphism Edition",
+  "short_name": "Plus UI Ultra",
+  "description": "Ultra-fast, modern Glassmorphism Progressive Web App theme for Blogger by Faiez Hafeez",
   "start_url": "/?utm_source=pwa",
   "scope": "/",
   "display": "standalone",

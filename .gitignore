@@ -1,0 +1,10 @@
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+.system_generated/
+scratch/
+
+# OS files
+Thumbs.db
+.DS_Store

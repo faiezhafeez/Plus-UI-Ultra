@@ -908,19 +908,19 @@ j=d.createElement(s),dl=l!=&#39;dataLayer&#39;?&#39;l=&#39;+l:&#39;&#39;;j.async
     Template info (Don't edit)
 ==================================
 
-<Variable name="template.name" description="Template name" type="string" default="" value="Plus UI"/>
-<Variable name="template.id" description="Template id" type="string" default="" value="plus-ui"/>
-<Variable name="template.version" description="Template version" type="string" default="" value="3.7.0"/>
+<Variable name="template.name" description="Template name" type="string" default="" value="Plus UI Ultra"/>
+<Variable name="template.id" description="Template id" type="string" default="" value="plus-ui-ultra"/>
+<Variable name="template.version" description="Template version" type="string" default="" value="4.0.0-ultra"/>
 <Variable name="template.stage" description="Template stage" type="string" default="" value="release"/>
 <Variable name="template.type" description="Template type" type="string" default="" value="Premium"/>
 <Variable name="template.filename" description="Template filename" type="string" default="" value="plus-ui.xml"/>
 <Variable name="template.published" description="Template published timestamp" type="string" default="" value="November 02, 2021"/>
 <Variable name="template.updated" description="Template updated timestamp" type="string" default="" value="2026"/>
 <Variable name="template.platform" description="Template platforms" type="string" default="" value="Blogger"/>
-<Variable name="template.copyright" description="Template copyright" type="string" default="" value="Plus UI Glassmorphism (100% Owned)"/>
-<Variable name="template.developers" description="Template developers" type="string" default="" value="Open Source Glassmorphism Edition"/>
-<Variable name="template.website" description="Template developer website" type="string" default="" value="https://github.com/"/>
-<Variable name="template.demo" description="Template demo" type="string" default="" value="https://plus-ul.blogspot.com"/>
+<Variable name="template.copyright" description="Template copyright" type="string" default="" value="Faiez Hafeez"/>
+<Variable name="template.developers" description="Template developers" type="string" default="" value="Faiez Hafeez"/>
+<Variable name="template.website" description="Template developer website" type="string" default="" value="https://github.com/faiezhafeez/Plus-UI-Ultra"/>
+<Variable name="template.demo" description="Template demo" type="string" default="" value="https://github.com/faiezhafeez/Plus-UI-Ultra#readme"/>
 
 ==================================
       Variables (Don't edit)
@@ -10510,7 +10510,7 @@ const PlusUIConfig = () => ({});
                   </b:widget-settings>
                   <b:includable id='main'>
                     <b:class name='fotC'/>
-                    <span class='credit'><b:if cond='data:content != &quot;&quot;'><data:content/><b:else/><span style='font-family:Arial, Helvetica, sans-serif'>&#169;</span> <span id='footer_year'>2025</span> &#8231; <bdi><a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/><b:include name='svg.verify-1'/></a></bdi> &#8231; All rights reserved.</b:if></span><b:include name='sys_core_load_v2'/></b:includable>
+                    <span class='credit'><b:if cond='data:content != &quot;&quot;'><data:content/><b:else/><span style='font-family:Arial, Helvetica, sans-serif'>&#169;</span> <span id='footer_year'>2026</span> &#8231; <bdi><a expr:href='data:blog.homepageUrl.canonical'><data:blog.title/><b:include name='svg.verify-1'/></a></bdi> &#8231; Powered by <a href='https://github.com/faiezhafeez/Plus-UI-Ultra' rel='noopener' target='_blank'>Plus UI Ultra</a></b:if></span><b:include name='sys_core_load_v2'/></b:includable>
                   <b:includable id='content'><!--[ removed ]--></b:includable>
                 </b:widget>
               </b:section>
